@@ -72,10 +72,9 @@ function App() {
         'HTML',
         'CSS',
         'JavaScript',
-        'React',
         'PHP',
         'MySQL',
-        'C'
+        'C&C++'
       ].map((skill) => (
         <div className="skill-card" key={skill}>
           {skill}
